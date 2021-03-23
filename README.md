@@ -2,7 +2,7 @@
 
 ## Installation
 
-OpenAL Gym can be installed by using `pip`.
+OpenAI Gym can be installed by using `pip`.
 
 ```
 pip install gym
