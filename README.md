@@ -1,6 +1,6 @@
 # q_learning
 
-# Installation
+## Installation
 
 OpenAL Gym can be installed by using `pip`.
 
